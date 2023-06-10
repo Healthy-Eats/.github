@@ -1,4 +1,4 @@
-### Healthy Eats Organization
+### Healthy Eats
 Healthy Eats is a Product Based Capstone Project for the Bangkit 2023 Batch 1 program. We are a team of 6 members, consisting of 2 individuals from the Machine Learning team, 2 individuals from the Cloud Computing team, and 2 individuals from the Mobile Development team.
 
 <div align="center">
