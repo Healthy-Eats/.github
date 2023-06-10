@@ -4,9 +4,7 @@ Healthy Eats is a Product Based Capstone Project for the Bangkit 2023 Batch 1 pr
 
 ## Team Members
 
-## Team Members
-
-| Path             | ID          | Name                      |
+| Path             | Bangkit ID          | Name              |
 |------------------|-------------|---------------------------|
 | Machine Learning | M210DSY3442 | Umul Syarifah             |
 | Machine Learning | M210DSX0109 | Praditia Ilham Fauzi      |
