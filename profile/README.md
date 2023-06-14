@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/135290818?s=400&u=42c995f63f686803dce04ac3629c7451f6fda8e6&v=4" width="100" height="100"><br>
+  <i>An effortless solution for your optimal nutrition.</i>
+</div>
+
 ### What's this ?
 Healthy Eats is a Product Based Capstone Project for the Bangkit 2023 Batch 1 program. We are a team of 6 members, consisting of 2 individuals from the Machine Learning team, 2 individuals from the Cloud Computing team, and 2 individuals from the Mobile Development team.
 
